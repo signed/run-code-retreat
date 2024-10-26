@@ -1,0 +1,46 @@
+
+== How will the day look like
+* 30 min introduction
+* 3 morning sessions
+* 60 min lunch
+* 3 afternoon sessions
+* 30 min retrospective covering the whole day
+
+=== A session consists of ...
+
+* ~5 min introduction of a technique/goal
+* ~40 min of pair programming
+* ~10 min retrospective with the whole group
+* ~5 min break
+
+[NOTE.speaker]
+--
+For today, we as a moderator/facilitator take the role of
+- what is the role of the moderator?
+--
+
+=== Its about practicing and learning
+
+* learn from each other
+* experiment, get outside your comfort zone
+* deliberate practice
+* there is no pressure to get something done
+* make mistakes without consequences
+
+[NOTE.speaker]
+--
+* Whatever you do, do what you don't normally do!
+* At least for one person in the pair.
+* It's not about completing a task, it's about practicing and learning
+--
+
+=== How do we practice?
+* pick a new pair partner for each session
+* throw away your code after the session
+
+[NOTE.speaker]
+--
+* Who has been on a code retreat?
+* Who has experience with pair programming?
+* Who has experience with test-first or even test-driven development?
+--

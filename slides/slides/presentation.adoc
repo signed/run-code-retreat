@@ -1,0 +1,34 @@
+:icons: font
+:linkattrs:
+:slides: .
+:imagedir: ../images
+:customcss: ../styles/custom.css
+= Legacy Code Retreat
+
+[NOTE.speaker]
+--
+. Welcome everybody
+--
+
+include::{slides}/05 sponsor.adoc[]
+include::{slides}/10 today.adoc[]
+include::{slides}/30 constraints.adoc[]
+
+include::{slides}/sessions/stand-in.adoc[]
+include::{slides}/sessions/stand-in.adoc[]
+include::{slides}/sessions/stand-in.adoc[]
+
+include::{slides}/50 lunch.adoc[]
+
+include::{slides}/sessions/stand-in.adoc[]
+include::{slides}/sessions/stand-in.adoc[]
+include::{slides}/sessions/stand-in.adoc[]
+
+include::{slides}/80 closing circle.adoc[]
+include::{slides}/90 materials.adoc[]
+
+[%notitle]
+== Melting Pot
+image::{imagedir}/bumper.jpg[canvas,size=contain]
+include::{slides}/melting_pot.adoc[]
+
