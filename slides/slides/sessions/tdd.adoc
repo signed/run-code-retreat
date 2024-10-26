@@ -5,6 +5,8 @@
 - Write just enough code to make it pass
 - Refactor, tidy up your code
 
+Red -> Green -> Refactor
+
 [NOTE.speaker]
 --
 --

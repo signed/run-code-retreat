@@ -1,0 +1,20 @@
+
+== Functional Calisthenics
+
+. Side effects can only occur at the top level
+. No mutable state
+. Expressions not statements
+. Functions should have 1 argument
+. No explicit recursion
+. Maximum type-level abstraction
+. Always use infinite sequences
+. No "if"
+. Name everything
+. Use intermediates
+. Don't abbreviate
+
+[NOTE.speaker]
+--
+* https://blog.ninjaferret.co.uk/2015/06/05/Introducing-Functional-Calisthenics.html
+* https://www.codurance.com/publications/2017/10/12/functional-calisthenics
+--

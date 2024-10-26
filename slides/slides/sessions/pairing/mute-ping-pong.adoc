@@ -1,0 +1,13 @@
+
+== Mute Ping Pong
+
+* TDD, without talking
+* Technical questions about the language or the IDE are ok
+
+[NOTE.speaker]
+--
+. https://martinfowler.com/articles/on-pair-programming.html
+--
+
+
+

@@ -1,0 +1,11 @@
+
+== Kent`s Inbox
+
+- Each idea (test case, refactoring) is recorded on a piece of paper as a task
+- Tasks are prioritized
+- cross out completed tasks
+- described in “Test Driven Development: By Example” by Kent Beck, among others
+
+[NOTE.speaker]
+--
+--

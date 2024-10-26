@@ -25,8 +25,8 @@ include::{slides}/sessions/tdd.adoc[]
 
 include::{slides}/50 lunch.adoc[]
 
-include::{slides}/sessions/stand-in.adoc[]
-include::{slides}/sessions/stand-in.adoc[]
+include::{slides}/sessions/encapsulate-domain-concepts.adoc[]
+include::{slides}/sessions/baby-steps.adoc[]
 include::{slides}/sessions/stand-in.adoc[]
 
 include::{slides}/80 closing circle.adoc[]

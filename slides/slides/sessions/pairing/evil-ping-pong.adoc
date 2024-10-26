@@ -1,0 +1,16 @@
+
+== Naiv Ping Pong
+
+* TDD
+* Person one implements the next red test case
+* Person tow implements the production code with a playful spirit
+
+find the loophole
+
+[NOTE.speaker]
+--
+. https://martinfowler.com/articles/on-pair-programming.html
+--
+
+
+

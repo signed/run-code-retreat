@@ -1,0 +1,11 @@
+
+== Simple methods
+
+For each method/function
+
+- only one level of indentation
+- not more than 3 lines long
+
+[NOTE.speaker]
+--
+--

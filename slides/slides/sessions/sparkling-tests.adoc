@@ -1,0 +1,17 @@
+
+== Sparkling Tests
+
+* One assert per test
+* No conditionals
+* Literate code
+* Generating Testdata
+** Builder
+** Mother
+* Structure
+** Given, When, Then
+** Arrange, Act, Assert
+
+[NOTE.speaker]
+--
+* Write the cleanest tests you possibly can
+--

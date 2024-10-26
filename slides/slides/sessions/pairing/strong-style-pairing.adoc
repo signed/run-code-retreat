@@ -1,0 +1,21 @@
+
+== Strong Style Pairing
+
+
+.After landing the cloaked Klingon bird of prey in Golden Gate park:
+[quote,Captain James T. Kirk,Star Trek IV: The Voyage Home]
+For an idea to go from your head into the computer it MUST go through someone else's hands
+
+
+
+[NOTE.speaker]
+--
+. https://llewellynfalco.blogspot.com/2014/06/llewellyns-strong-style-pairing.html
+. https://martinfowler.com/articles/on-pair-programming.html
+--
+
+
+
+
+
+

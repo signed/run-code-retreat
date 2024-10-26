@@ -1,0 +1,14 @@
+
+== Naiv Ping Pong
+
+* TDD, driver switches after each red-green cycle
+* Tests should guide the implementation
+* Implementation can be very simple to get the test green
+
+[NOTE.speaker]
+--
+. https://martinfowler.com/articles/on-pair-programming.html
+--
+
+
+

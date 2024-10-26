@@ -1,7 +1,16 @@
 
 == Baby Steps
 
+- two minutes from red to green and commit
+- only allowed to commit if all tests pass
+- If time is over, delete your uncommited changes
+- repeat
 
+
+[source, shell]
+----
+alias boom=“git clean -fd && git checkout .“
+----
 
 [NOTE.speaker]
 --
