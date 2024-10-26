@@ -1,14 +1,17 @@
 == Connect Four (aka Vier Gewinnt)
 
--
+Connect four of your discs in a row while preventing your opponent from doing the same.
 
+- Two player game where each player chooses a color
+- Pieces fall straight down into a six-row, seven-column vertically suspended grid
+- The first to form a horizontal, vertical, or diagonal line of four of one's own tokens wins
 
 [NOTE.speaker]
 --
+- https://en.wikipedia.org/wiki/Connect_Four
 - https://papergames.io/en/connect4
 - https://www.4-gewinnt.de/
 --
 
-=== The Rules
 
 
