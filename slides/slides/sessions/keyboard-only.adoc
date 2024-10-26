@@ -1,0 +1,27 @@
+
+== Keyboard Only
+
+- No Mouse
+- No Touchpad
+- No Trackpad
+- No Trackball
+
+Nothing that moves the cursor
+
+[NOTE.speaker]
+--
+* Game board of different size and category layout
+* translate the game to another language
+* changed penalty box rules
+* write game output to file
+--
+
+=== Stand-In Details
+
+[NOTE.speaker]
+--
+* focus on one change at the time
+* bend the existing code into place so that implementing the new feature becomes easy
+* Start with new Board?
+* Extract board first?
+--
