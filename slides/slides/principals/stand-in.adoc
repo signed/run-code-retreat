@@ -1,0 +1,14 @@
+
+== Four Rules of Simple Design
+
+Kent Beck in Extreme Programming:
+- Passes the tests
+- Reveals intention
+- No duplication
+- Fewest elements
+
+
+[NOTE.speaker]
+--
+https://martinfowler.com/bliki/BeckDesignRules.html
+--

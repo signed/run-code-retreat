@@ -2,10 +2,6 @@
 ==  Recommendations
 * At least one person of the pair should know the language
 * Use version control
-* Practice Baby Steps
-** focus on one change at the time
-** run your tests often
-** make small commits with descriptive commit messages
 
 === Constraints
 * code is developed test first

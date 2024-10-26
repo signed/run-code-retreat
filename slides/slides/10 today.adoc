@@ -1,14 +1,16 @@
 
 == How will the day look like
-* 30 min introduction
-* 3 morning sessions
-* 60 min lunch
-* 3 afternoon sessions
-* 30 min retrospective covering the whole day
+
+* [.line-through]#Breakfast#
+* Introduction
+* Sessions 1 - 2
+* Lunch (1 h)
+* Sessions 3 - 5
+* Closing Circle & Feedback
 
 === A session consists of ...
 
-* ~5 min introduction of a technique/goal
+* ~5 min introducing the constraint
 * ~40 min of pair programming
 * ~10 min retrospective with the whole group
 * ~5 min break
@@ -19,7 +21,7 @@ For today, we as a moderator/facilitator take the role of
 - what is the role of the moderator?
 --
 
-=== Its about practicing and learning
+=== It's about practicing and learning
 
 * learn from each other
 * experiment, get outside your comfort zone
@@ -35,8 +37,8 @@ For today, we as a moderator/facilitator take the role of
 --
 
 === How do we practice?
-* pick a new pair partner for each session
 * throw away your code after the session
+* pick a new pair partner for each session
 
 [NOTE.speaker]
 --
