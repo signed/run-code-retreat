@@ -4,20 +4,7 @@
 :imagedir: ../images
 :customcss: ../styles/custom.css
 
-[.columns]
 = Code Retreat
-
-[.column]
-* Java
-* **Kotlin**
-
-[.column]
-* Node
-* **Deno**
-
-[.column]
-* Ruby
-* **Crystal**
 
 [NOTE.speaker]
 --
