@@ -11,7 +11,7 @@
   },
   "devDependencies": {
     "@signed/prettier-config": "0.2.0",
-    "@signed/scribe": "0.7.0",
+    "@signed/scribe": "0.8.0",
     "prettier": "3.3.3",
     "rimraf": "6.0.1"
   },
