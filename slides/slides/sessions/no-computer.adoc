@@ -1,7 +1,5 @@
 
-== Stand In
-
-
+== No Computer
 
 [NOTE.speaker]
 --

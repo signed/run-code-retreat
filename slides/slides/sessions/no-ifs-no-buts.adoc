@@ -1,0 +1,9 @@
+
+== No ifs no buts
+
+- No if statements allowed in your code
+
+
+[NOTE.speaker]
+--
+--

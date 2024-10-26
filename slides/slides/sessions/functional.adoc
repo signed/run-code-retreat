@@ -1,0 +1,9 @@
+
+== Functional
+
+- no state, just functions
+- immutable datastructures
+
+[NOTE.speaker]
+--
+--

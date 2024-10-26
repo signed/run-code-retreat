@@ -1,0 +1,14 @@
+== Connect Four (aka Vier Gewinnt)
+
+-
+
+
+[NOTE.speaker]
+--
+- https://papergames.io/en/connect4
+- https://www.4-gewinnt.de/
+--
+
+=== The Rules
+
+

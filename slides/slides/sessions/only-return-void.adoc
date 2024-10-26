@@ -1,0 +1,11 @@
+
+== Only return Void
+
+- methods and functions are not allowed to return anything
+
+
+[NOTE.speaker]
+--
+Retro Questions
+- Is this the meaning of tell-don`t ask?
+--

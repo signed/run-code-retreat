@@ -1,7 +1,9 @@
 
 == Test Driven Development
 
-
+- Write a failing test
+- Write just enough code to make it pass
+- Refactor, tidy up your code
 
 [NOTE.speaker]
 --

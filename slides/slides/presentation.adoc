@@ -14,14 +14,14 @@
 include::{slides}/05 sponsor.adoc[]
 include::{slides}/10 today.adoc[]
 include::{slides}/30 constraints.adoc[]
-include::{slides}/principals/stand-in.adoc[]
+include::{slides}/principals/four-rules-of-simple-design.adoc[]
 
-include::{slides}/tasks/game-of-life.adoc
+include::{slides}/tasks/game-of-life.adoc[]
+include::{slides}/tasks/connect-four.adoc[]
 
-
+include::{slides}/sessions/no-computer.adoc[]
 include::{slides}/sessions/keyboard-only.adoc[]
-include::{slides}/sessions/stand-in.adoc[]
-include::{slides}/sessions/stand-in.adoc[]
+include::{slides}/sessions/tdd.adoc[]
 
 include::{slides}/50 lunch.adoc[]
 
