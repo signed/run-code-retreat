@@ -27,7 +27,7 @@ include::{slides}/50 lunch.adoc[]
 
 include::{slides}/sessions/encapsulate-domain-concepts.adoc[]
 include::{slides}/sessions/baby-steps.adoc[]
-include::{slides}/sessions/stand-in.adoc[]
+include::{slides}/sessions/calisthenics-object.adoc[]
 
 include::{slides}/80 closing circle.adoc[]
 include::{slides}/90 materials.adoc[]
@@ -54,7 +54,6 @@ include::{slides}/sessions/no-ifs-no-buts.adoc[]
 include::{slides}/sessions/only-return-void.adoc[]
 include::{slides}/sessions/simple-methods.adoc[]
 include::{slides}/sessions/sparkling-tests.adoc[]
-include::{slides}/sessions/stand-in.adoc[]
 include::{slides}/sessions/tdd.adoc[]
 include::{slides}/sessions/tdd-as-if-you-mean-it.adoc[]
 
