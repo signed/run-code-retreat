@@ -1,6 +1,0 @@
-
-== TDD as if you mean it
-
-[NOTE.speaker]
---
---

@@ -2,3 +2,4 @@
 == Materials
 
 * https://software-architektur.tv/2024/10/25/episode236.html[Code Retreat live] Eberhard Wolff und Marco Emrich
+* https://www.coderetreat.org

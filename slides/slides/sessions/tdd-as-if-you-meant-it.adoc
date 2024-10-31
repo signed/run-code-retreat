@@ -1,0 +1,10 @@
+
+== TDD as if you mean it
+
+[NOTE.speaker]
+--
+* https://www.youtube.com/watch?v=ts9hS1wIveE
+* https://gojko.net/2009/02/27/thought-provoking-tdd-exercise-at-the-software-craftsmanship-conference/
+* https://gojko.net/2009/08/02/tdd-as-if-you-meant-it-revisited/
+* https://github.com/sf105/tdd-as-if-you-meant-it
+--
