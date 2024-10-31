@@ -6,7 +6,8 @@ Use domain objects
 - ❌ Birthday(int, int, int)
 - ✅ Birthday(Year, Month, Day)
 
-- No primitive datatypes as parameters or return values methods or functions
+- No primitive datatypes as parameters or return values in methods or functions
+
 
 [NOTE.speaker]
 --

@@ -2,10 +2,11 @@
 == Four Rules of Simple Design
 
 Kent Beck in Extreme Programming:
-- Passes the tests
-- Reveals intention
-- No duplication
-- Fewest elements
+
+* Passes the tests
+* Reveals intention
+* No duplication
+* Fewest elements
 
 
 [NOTE.speaker]
