@@ -1,7 +1,7 @@
 {
   "private": true,
   "name": "@signed/run-legacy-code-retreat",
-  "packageManager": "pnpm@9.12.2",
+  "packageManager": "pnpm@9.12.3",
   "scripts": {
     "present": "scribe",
     "clean": "rimraf out",
