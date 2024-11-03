@@ -6,6 +6,7 @@ For hints on how to edit the slides have a look at [asciidoctor-revealjs][adoc-r
 [quick]: https://asciidoctor.org/docs/asciidoc-syntax-quick-reference/
 
 # Shortcuts
+
 S opens speaker notes  
 B blacks the screen  
 alt + click zooms to the cursor location
