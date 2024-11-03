@@ -1,5 +1,6 @@
 == good reads
 1. https://www.it-agile.de/wissen/agiles-engineering/code-retreat/
+2. https://github.com/swkWien/gdcr2024
 
 == Constraints
 
