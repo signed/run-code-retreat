@@ -15,5 +15,5 @@
     "prettier": "3.3.3",
     "rimraf": "6.0.1"
   },
-  "prettier": "@signed/pettier-config"
+  "prettier": "@signed/prettier-config"
 }
