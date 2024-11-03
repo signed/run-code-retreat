@@ -55,5 +55,5 @@ include::{slides}/sessions/only-return-void.adoc[]
 include::{slides}/sessions/simple-methods.adoc[]
 include::{slides}/sessions/sparkling-tests.adoc[]
 include::{slides}/sessions/tdd.adoc[]
-include::{slides}/sessions/tdd-as-if-you-mean-it.adoc[]
+include::{slides}/sessions/tdd-as-if-you-meant-it.adoc[]
 
