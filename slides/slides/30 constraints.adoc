@@ -4,7 +4,7 @@
 * Use version control
 
 === Constraints
-* code is developed test first
+* Code is developed test first
 * Follow the constraints of the session
 
 [NOTE.speaker]
